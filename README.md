@@ -1,10 +1,11 @@
 <h1 align="center">Hi there, I'm Denis Klimovich</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior frontend developer</h3>
+<h3 align="center">Frontend developer</h3>
 
-🌱 Currently I’m learning Vue.js and working on my first projects based on this Framework <br>
-🤔 I'm constantly improving my skills in HTML, CSS and JS<br>
+🌱 I'm developing Vue.js applications<br>
+🤔 I'm constantly learning new techniques and improving my skills working on interactive, functional and pretty web-sites<br>
 🔭 Looking for new ideas and ways to implement them
+📫 Write me with cooperate proposals - [email](mailto:denis.klimovich.web@gmail.com)
 <!--
 **kay4yk13/kay4yk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
