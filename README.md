@@ -4,7 +4,7 @@
 
 🌱 I'm developing Vue.js applications<br>
 🤔 I'm constantly learning new techniques and improving my skills working on interactive, functional and pretty web-sites<br>
-🔭 Looking for new ideas and ways to implement them
+🔭 Looking for new ideas and ways to implement them<br>
 📫 Write me with cooperate proposals - [email](mailto:denis.klimovich.web@gmail.com)
 <!--
 **kay4yk13/kay4yk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
